@@ -1,4 +1,4 @@
-# playlist
+# Youtube Playlist Download
 Download all videos in a youtube playlist
 
 <b>Requirements:
