@@ -14,6 +14,6 @@ BeautifulSoup library : install by running command
 
 <B>Usage :
 
-playlist.py url
+python3 downloader.py url
 
 url should be in format https://www.youtube.com/playlist?__________________________
